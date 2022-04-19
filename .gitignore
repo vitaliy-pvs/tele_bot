@@ -1,0 +1,12 @@
+*.log
+*.pot
+*.pyc
+*~
+__pycache__
+db.sqlite3
+.DS_Store
+pip-log.txt
+pip-delete-this-directory.txt
+/.idea/
+/venv/
+user_events.db
